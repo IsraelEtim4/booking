@@ -2,7 +2,6 @@
   "name": "booking",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://EtimIsrael.github.io/booking",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.2",
     "@fortawesome/free-regular-svg-icons": "^6.1.2",
@@ -44,8 +43,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^4.0.0"
   }
 }
